@@ -1,6 +1,6 @@
 # Credit-score-classification-80-score-7-models
 
-![Credit score classification](Credit-score-classification.jpeg)
+![Credit score classification](https://user-images.githubusercontent.com/71048405/196055598-21a1625a-282b-4c6f-a0b1-9b5a9ad0f89a.jpeg)
 
 
 Given a person’s credit-related information, build a machine learning model that
