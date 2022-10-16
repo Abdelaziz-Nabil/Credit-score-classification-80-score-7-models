@@ -56,7 +56,7 @@ Credit score classification 80% score 7 models
 * [Drop unimportant columns](#Drop-unimportant-columns)
 * [Encoding categorical features](#Encoding-categorical-features)
 * [Scaling and Split the data](#Scaling-and-Split-the-data)
-* [Model]((#Model)
+* [Model](#Model)
 * [Logistic Regression](#Logistic-Regression)
 * [KNN](#KNN)
 * [Decision Tree](#Decision-Tree)
