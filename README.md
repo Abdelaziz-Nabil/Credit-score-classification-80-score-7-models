@@ -1,5 +1,5 @@
 # Credit-score-classification-80-score-7-models
-Credit score classification 80% score 7 models
+Given a person’s credit-related information, build a machine learning model that
 
 
 
